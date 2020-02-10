@@ -1,0 +1,16 @@
+HOST_ADDRESS=http://localhost
+$(HOST_ADDRESS):7555/index.html
+$(HOST_ADDRESS):7555/features.html
+$(HOST_ADDRESS):7555/nonroot.html
+$(HOST_ADDRESS):7555/gui.html
+$(HOST_ADDRESS):7555/charset.html
+$(HOST_ADDRESS):7555/token.html
+$(HOST_ADDRESS):7555/pkcs11.html
+$(HOST_ADDRESS):7555/tpm.html
+$(HOST_ADDRESS):7555/csd.html
+$(HOST_ADDRESS):7555/tncc.html
+$(HOST_ADDRESS):7555/hip.html
+$(HOST_ADDRESS):7555/building.html
+$(HOST_ADDRESS):7555/mail.html
+$(HOST_ADDRESS):7555/contribute.html
+$(HOST_ADDRESS):7555/anyconnect.html
